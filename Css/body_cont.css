@@ -1,7 +1,8 @@
 .body-container
 {
+    display: inline-block;
     position: relative;
-    top: 9rem;
+    /* top: 9rem; */
     height: 100vh;
 }
 

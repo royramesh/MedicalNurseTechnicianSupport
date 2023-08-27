@@ -10,6 +10,10 @@ height:100%;
 }
 .contents{
     display: flex;
+    position: relative;
+    top: 9.5rem;
+    height: min-content;
+    overflow: hidden;
 }
 .card{
     border: 2px solid black;
