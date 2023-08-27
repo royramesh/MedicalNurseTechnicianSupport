@@ -11,7 +11,7 @@ height:100%;
 .contents{
     display: flex;
     position: relative;
-    top: 9.5rem;
+    top: 11rem;
     height: min-content;
     overflow: hidden;
 }
